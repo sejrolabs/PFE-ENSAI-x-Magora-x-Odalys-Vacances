@@ -1,0 +1,2 @@
+# Projet-de-Fin-d-Etudes---ENSAI-x-Magora-x-Odalys-Vacances
+Dans le cadre du projet de fin d'études à l'ENSAI, ce sujet de revenue management a été réalisé par trois (03) étudiants de l'ENSAI, don je fais partie. Il répond à une problématique concrète de Odalys Vacances : la prévision des volumes de réservations pour l'optimisation des décisions tarifaires et la gestion des stocks de réservations.
